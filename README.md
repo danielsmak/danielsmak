@@ -26,7 +26,7 @@ My colleagues value me as a competent and reliable team player with a great pass
 <br>
 <br>
 
-
+<br>
 ## Design Kenntnisse / Design Skills
 
 <img align="left" alt="Figma" src="https://img.shields.io/badge/Figma-critical?style=for-the-badge&logo" /> 
