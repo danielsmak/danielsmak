@@ -17,12 +17,13 @@ My colleagues value me as a competent and reliable team player with a great pass
 
 
 ## Frontend Kenntnisse / Frontend Skills
-<br>
+
 <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo" /> 
 <img align="left" alt="css3/scss" src="https://img.shields.io/badge/CSS3/SCSS-%231DA1F2?style=for-the-badge&logo" /> 
 <img align="left" alt="React.js" src="https://img.shields.io/badge/React.js-%23232F3E?style=for-the-badge&logo" /> 
 <img align="left" alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo" /> 
 <img align="left" alt="MUI5" src="https://img.shields.io/badge/MUI5-%23316192?style=for-the-badge&logo" /> 
+<br>
 <br>
 
 
@@ -31,6 +32,7 @@ My colleagues value me as a competent and reliable team player with a great pass
 <img align="left" alt="Figma" src="https://img.shields.io/badge/Figma-critical?style=for-the-badge&logo" /> 
 <img align="left" alt="Maze" src="https://img.shields.io/badge/Maze-black?style=for-the-badge&logo" /> 
 <img align="left" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-%23232F3E?style=for-the-badge&logo" /> 
+<br>
 <br>
 
 ## Kontaktieren Sie mich / Contact me 
