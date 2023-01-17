@@ -33,7 +33,7 @@ My colleagues value me as a competent and reliable team player with a great pass
 <img align="left" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-%23232F3E?style=for-the-badge&logo" /> 
 <br>
 
-## Connect with me
+## Kontaktieren Sie mich / Contact me 
 [<img align="left" alt="Daniels Makarenko Webseite" src="https://img.shields.io/badge/danielsmakarenko.com-black?style=for-the-badge&logo" />](https://www.daniels-makarenko.com/)
 [<img align="left" alt="Xing Daniels Makarenko" src="https://img.shields.io/badge/Xing-darkgreen?style=for-the-badge&logo" />](https://www.xing.com/profile/Daniels_Makarenko/cv)
 [<img align="left" alt="LiknedIn Daniels Makarenko" src="https://img.shields.io/badge/LinkedIn-%231DA1F2?style=for-the-badge&logo" />](https://www.linkedin.com/in/daniels-makarenko-45a310141/)
