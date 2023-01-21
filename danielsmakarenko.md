@@ -1,4 +1,4 @@
-[![Daniels Makarenko's GitHub Banner](daniels-makarenko-git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
+[![Daniels Makarenko's GitHub Banner](daniels-makarenko1-git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
 
 ## Über mich / About me
 
@@ -14,7 +14,6 @@ Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit
 Hello 👋, I'm Daniels Makarenko, a UX / UI designer and frontend developer from Düsseldorf.
 
 My colleagues value me as a competent and reliable team player with a great passion for frontend development and UX / UI design. In my last position, I was instrumental in the implementation of several projects in these areas.
-
 
 
 ## Frontend Kenntnisse / Frontend Skills
