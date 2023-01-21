@@ -3,7 +3,6 @@
 ## Über mich / About me
 ##### Deutsch:
 
-
 Hallo 👋, ich bin Daniels Makarenko, ein UX / UI Designer und Frontend-Entwickler aus Düsseldorf. 
 
 Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit einer großen Leidenschaft für Frontend Entwicklung und UX / UI Design. In meiner letzten Position war ich maßgeblich an der Umsetzung mehrerer Projekte in diesen Bereichen beteiligt.
