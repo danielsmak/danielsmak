@@ -11,7 +11,7 @@ Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit
 ##### English:
 Hello 👋, I'm Daniels Makarenko, a UX / UI designer and frontend developer from Düsseldorf.
 
-My colleagues value me as a competent and reliable team player with a great passion for frontend development and UX / UI design. In my last position, I was instrumental in the implementation of several projects in these areas.
+My colleagues value me as a competent and reliable team player with a great passion for frontend development and UX / UI design. In my last position, I was responsible for the implementation of several projects in these areas.
 
 
 ## Frontend Kenntnisse / Frontend Skills
