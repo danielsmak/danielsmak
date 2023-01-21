@@ -1,4 +1,4 @@
-[![Daniels Makarenko's GitHub Banner](daniels-makarenko1-git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
+[![Daniels Makarenko's GitHub Banner](daniels-makarenko-git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
 
 ## Über mich / About me
 
