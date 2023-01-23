@@ -3,7 +3,7 @@
 ## Über mich / About me
 ##### Deutsch:
 
-Hallo 👋, ich bin Daniels Makarenko, ein Frontend-Entwickler und UX / UI Designer aus Düsseldorf. 
+Hallo 👋, ich bin Daniels Makarenko, ein Junior Web-Entwickler und UX / UI Designer aus Düsseldorf. 
 
 Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit einer großen Leidenschaft für Frontend Entwicklung und UX / UI Design. In meiner letzten Position war ich maßgeblich an der Umsetzung mehrerer Projekte in diesen Bereichen beteiligt.
 
@@ -17,8 +17,8 @@ My colleagues value me as a competent and reliable team player with a great pass
 <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo" /> 
 <img align="left" alt="css3/scss" src="https://img.shields.io/badge/CSS3/SCSS-%231DA1F2?style=for-the-badge&logo" /> 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23232F3E?style=for-the-badge&logo" /> 
-<img align="left" alt="React.js (Erste Erfahrungen)" src="https://img.shields.io/badge/React.js-%23232F3E?style=for-the-badge&logo" /> 
-<img align="left" alt="Next.js (Erste Erfahrungen)" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo" /> 
+<img align="left" alt="React.js (Erste Erfahrungen)" src="https://img.shields.io/badge/React.js (Erste Erfahrungen)-%23232F3E?style=for-the-badge&logo" /> 
+<img align="left" alt="Next.js (Erste Erfahrungen)" src="https://img.shields.io/badge/Next.js (Erste Erfahrungen)-black?style=for-the-badge&logo" /> 
 <img align="left" alt="MUI5" src="https://img.shields.io/badge/MUI5-%23316192?style=for-the-badge&logo" /> 
 <br>
 
