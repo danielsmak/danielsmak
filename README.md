@@ -33,7 +33,6 @@ Design Kenntnisse / Design Skills
 
 ## Kontaktieren Sie mich / Contact me
 ======
-
  [<img align="left" alt="Daniels Makarenko Webseite" src="https://img.shields.io/badge/danielsmakarenko.com-black?style=for-the-badge&logo" />](https://www.daniels-makarenko.com/)
  [<img align="left" alt="Xing Daniels Makarenko" src="https://img.shields.io/badge/Xing-darkgreen?style=for-the-badge&logo" />](https://www.xing.com/profile/Daniels_Makarenko/cv)
  [<img align="left" alt="LiknedIn Daniels Makarenko" src="https://img.shields.io/badge/LinkedIn-%231DA1F2?style=for-the-badge&logo" />](https://www.linkedin.com/in/daniels-makarenko-45a310141/)
