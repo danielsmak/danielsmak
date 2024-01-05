@@ -13,11 +13,13 @@ Hello 👋, I'm Daniels Makarenko, a frontend developer and UX/UI designer from 
 My colleagues value me as a competent and reliable team player with a great passion for frontend development and UX / UI design. In my last position, I was responsible for the implementation of several projects in these areas.
 
 ## Frontend Kenntnisse / Frontend Skills
-<img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo" /> 
-<img align="left" alt="css3/scss" src="https://img.shields.io/badge/CSS3/SCSS-%231DA1F2?style=for-the-badge&logo" /> 
-<img align="left" alt="React.js" src="https://img.shields.io/badge/React.js-%23232F3E?style=for-the-badge&logo" /> 
-<img align="left" alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo" /> 
-<img align="left" alt="MUI5" src="https://img.shields.io/badge/MUI5-%23316192?style=for-the-badge&logo" /> 
+
+- JavaScript / ES6
+- React.js
+- Next.js 12, 13 (Grundlegend)
+- CSS3/SCSS/JSS
+- MUI5 / Tailwind
+- GitHub
 <br>
 
 ## Design Kenntnisse / Design Skills
