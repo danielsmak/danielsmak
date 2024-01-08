@@ -43,6 +43,6 @@ Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit
 
 - Meine eigene Webseite / Portfolio: [danielsmakarenko.com](https://www.daniels-makarenko.com/ "danielsmakarenko.com") 
 - Buchen Sie einen Termin in Calendly: [Gespräch vereinbaren](https://calendly.com/danielsmakarenko/ "Gespräch vereinbaren")
-- Sie sind ein/eine Recruiter:in oder HR-Spezialist:in - schreiben Sie auf diese Email: [job@danielsmakarenko.com](mailto:job@danielsmakarenko.com)
-- Sie brauchen einen Freelancer / wollen ein Projekt mit meiner Hilfe umsetzen - schreiben Sie auf diese E-Mail: [work@danielsmakarenko.com](mailto:work@danielsmakarenko.com)
+- Sie sind ein/eine Recruiter:in oder HR-Spezialist:in - schreiben Sie mir bitte an: [job@danielsmakarenko.com](mailto:job@danielsmakarenko.com)
+- Sie benötigen einen Freelancer / möchten ein Projekt mit meiner Hilfe umsetzen - schreiben Sie mir bitte an: [work@danielsmakarenko.com](mailto:work@danielsmakarenko.com)
 
