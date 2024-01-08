@@ -1,9 +1,9 @@
 [![Daniels Makarenko's GitHub Banner](daniels-makarenko_git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
 
-
-I want to read your profile in English
-I want to read your profile in Dutch
-I want to read your profile in Russian
+###English Version
+<br>
+###Dutch Version
+###Russian Version
 
 ## Über mich
 
@@ -42,10 +42,10 @@ Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit
 
 ## Kontaktieren Sie mich / Contact me 
 
-- Meine eigene Webseite / Portfolio: [danielsmakarenko.com](https://www.daniels-makarenko.com/ "danielsmakarenko.com")
+- Meine eigene Webseite / Portfolio: [danielsmakarenko.com](https://www.daniels-makarenko.com/ "danielsmakarenko.com") 
 - Buchen Sie einen Termin in Calendly: [Gespräch vereinbaren](https://calendly.com/danielsmakarenko/ "Gespräch vereinbaren")
-- Sie brauchen einen Freelancer - schreiben Sie auf diese E-Mail: [Frelance-Arbeit](mailto:work@danielsmakarenko.com?subject=[Ich suche einen Freelancer für...]%20Source%20Han%20Sans)
-- Sie sind ein/eine Recruiter:in oder HR-Spezialist:in - schreiben Sie auf diese E-Mail: [Daniels-Recruiting](mailto:job@danielsmakarenko.com?subject=[Ich suche einen Freelancer für...]%20Source%20Han%20Sans)
+- Sie brauchen einen Freelancer - schreiben Sie auf diese E-Mail: (mailto:work@danielsmakarenko.com? "Im Bezug auf Freelance kontaktieren")
+- Sie sind ein/eine Recruiter:in oder HR-Spezialist:in - schreiben Sie auf diese E-Mail: [Daniels-Recruiting](mailto:job@danielsmakarenko.com "Im Bezug auf eine Stelle kontaktieren")
 
 
 ## Kontaktieren Sie mich / Contact me 
