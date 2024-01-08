@@ -7,7 +7,7 @@
 ## Über mich
 
 Hallo 👋, ich bin Daniels Makarenko, ein Frontend-Entwickler und UX/UI Designer aus Düsseldorf. 
-
+:uk:
 Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit einer großen Leidenschaft für Frontend Entwicklung und UX / UI Design. Ich bringe zudem Erfahrung und Kenntnisse im Bereich ERP / CRM und Webmarketing mit, was mich zu einem vielseitigen Spezialisten macht, mit dem Hauptfokus auf Frontend-Entwicklung.
 
 ## Frontend Kenntnisse
