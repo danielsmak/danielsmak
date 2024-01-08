@@ -1,40 +1,48 @@
-![Daniels Makarenko's GitHub Banner](daniels-makarenko_git.png)
+[![Daniels Makarenko's GitHub Banner](daniels-makarenko_git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
 
-## Über mich / About me
-##### Deutsch:
+#### [English Version](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_en.md) 
+#### Nederlandse versie
+#### Русская версия
 
-Hallo 👋, ich bin Daniels Makarenko, ein Web-Entwickler und UX / UI Designer aus Düsseldorf. 
+## Über mich
 
-Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit einer großen Leidenschaft für Frontend Entwicklung und UX / UI Design. In meiner letzten Position war ich maßgeblich an der Umsetzung mehrerer Projekte in diesen Bereichen beteiligt.
+Hallo 👋, ich bin Daniels Makarenko, ein Frontend-Entwickler und UX/UI Designer aus Düsseldorf. 
 
-##### English:
+Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit einer großen Leidenschaft für Frontend Entwicklung und UX / UI Design. Ich bringe zudem Erfahrung und Kenntnisse im Bereich ERP / CRM und Webmarketing mit, was mich zu einem vielseitigen Spezialisten macht, mit dem Hauptfokus auf Frontend-Entwicklung.
 
-Hello 👋, I'm Daniels Makarenko, a web-developer and UX / UI designer from Düsseldorf.
+## Frontend Kenntnisse
 
-My colleagues value me as a competent and reliable team player with a great passion for frontend development and UX / UI design. In my last position, I was instrumental in the implementation of several projects in these areas.
+- JavaScript / ES6
+- React.js
+- Next.js 12, 13 (Basic / Grundlegend)
+- CSS3/SCSS/JSS
+- MUI5 / Tailwind
+- GIT
 
+## UX-UI Design Kenntnisse
 
-Frontend Kenntnisse / Frontend Skills
-======
-  <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo" /> 
-  <img align="left" alt="css3/scss" src="https://img.shields.io/badge/CSS3/SCSS-%231DA1F2?style=for-the-badge&logo" /> 
-  <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23232F3E?style=for-the-badge&logo" /> 
-  <img align="left" alt="React.js" src="https://img.shields.io/badge/React.js (Erste Erfahrungen)-%23232F3E?style=for-the-badge&logo" /> 
-  <img align="left" alt="Next.js" src="https://img.shields.io/badge/Next.js (Erste Erfahrungen)-black?style=for-the-badge&logo" /> 
-  <img align="left" alt="MUI5" src="https://img.shields.io/badge/MUI5-%23316192?style=for-the-badge&logo" /> 
-  <br>&nbsp;
+- Figma
+- Maze
+- UX-Research 
+- Userflows / Flowcharts
+- UI-Prototyping
+- User Testing
 
-Design Kenntnisse / Design Skills
-======
-  <img align="left" alt="Figma" src="https://img.shields.io/badge/Figma-critical?style=for-the-badge&logo" /> 
-  <img align="left" alt="Maze" src="https://img.shields.io/badge/Maze-black?style=for-the-badge&logo" /> 
-  <img align="left" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-%23232F3E?style=for-the-badge&logo" /> 
-  <br>&nbsp;
+## ERP / CRM / Marketing Tools
 
-Kontaktieren Sie mich / Contact me
-======
- [<img align="left" alt="Daniels Makarenko Webseite" src="https://img.shields.io/badge/danielsmakarenko.com-black?style=for-the-badge&logo" />](https://www.daniels-makarenko.com/)
- [<img align="left" alt="Xing Daniels Makarenko" src="https://img.shields.io/badge/Xing-darkgreen?style=for-the-badge&logo" />](https://www.xing.com/profile/Daniels_Makarenko/cv)
- [<img align="left" alt="LiknedIn Daniels Makarenko" src="https://img.shields.io/badge/LinkedIn-%231DA1F2?style=for-the-badge&logo" />](https://www.linkedin.com/in/daniels-makarenko-45a310141/)
- [<img align="left" alt="Dribbble Daniels Makarenko" src="https://img.shields.io/badge/Dribbble-critical?style=for-the-badge&logo" />](https://dribbble.com/danielsmak)
-  <br>&nbsp;
+- Microsoft Dynamics 365 CRM 
+- ERP SelectLine Warenwirtschaft 
+- Contentful
+- ClickDimensions 
+- Inxmail
+- PIWIK PRO 
+- Vercel Analytics 
+- Google Analytics
+
+## Kontaktieren Sie mich
+
+- Meine eigene Webseite / Portfolio: [danielsmakarenko.com](https://www.daniels-makarenko.com/ "danielsmakarenko.com") 
+- Buchen Sie einen Termin in Calendly: [Gespräch vereinbaren](https://calendly.com/danielsmakarenko/ "Gespräch vereinbaren")
+- Sie sind ein/eine Recruiter:in oder HR-Spezialist:in - schreiben Sie mir bitte an: [job@danielsmakarenko.com](mailto:job@danielsmakarenko.com)
+- Sie benötigen einen Freelancer / möchten ein Projekt mit meiner Hilfe umsetzen - schreiben Sie mir bitte an: [work@danielsmakarenko.com](mailto:work@danielsmakarenko.com)
+
