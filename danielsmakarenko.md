@@ -1,8 +1,8 @@
 [![Daniels Makarenko's GitHub Banner](daniels-makarenko_git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
 
-### English Version
-### Nederlandse versie
-### Русская версия
+#### English Version
+#### Nederlandse versie
+#### Русская версия
 
 ## Über mich
 
