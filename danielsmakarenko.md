@@ -17,7 +17,7 @@ Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit
 - Next.js 12, 13 (Basic / Grundlegend)
 - CSS3/SCSS/JSS
 - MUI5 / Tailwind
-- GitHub
+- GIT
 
 ## UX-UI Design Kenntnisse
 
