@@ -1,15 +1,16 @@
 [![Daniels Makarenko's GitHub Banner](daniels-makarenko_git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
 
-
-I want to read your profile in English
-I want to read your profile in Dutch
-I want to read your profile in Russian
-
-## Über mich
+## Über mich / About me
+##### Deutsch:
 
 Hallo 👋, ich bin Daniels Makarenko, ein Frontend-Entwickler und UX/UI Designer aus Düsseldorf. 
 
 Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit einer großen Leidenschaft für Frontend Entwicklung und UX / UI Design. In meiner letzten Position war ich maßgeblich an der Umsetzung mehrerer Projekte in diesen Bereichen beteiligt.
+
+##### English:
+Hello 👋, I'm Daniels Makarenko, a frontend developer and UX/UI designer from Düsseldorf.
+
+My colleagues value me as a competent and reliable team player with a great passion for frontend development and UX / UI design. In my last position, I was responsible for the implementation of several projects in these areas.
 
 ## Frontend Kenntnisse / Frontend Skills
 
@@ -42,11 +43,14 @@ Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit
 
 ## Kontaktieren Sie mich / Contact me 
 
-- Meine eigene Webseite / Portfolio: [danielsmakarenko.com](https://www.daniels-makarenko.com/ "danielsmakarenko.com")
-- Buchen Sie einen Termin in Calendly: [Gespräch vereinbaren](https://calendly.com/danielsmakarenko/ "Gespräch vereinbaren")
-- Sie brauchen einen Freelancer - schreiben Sie auf diese E-Mail: [Frelance-Arbeit](mailto:work@danielsmakarenko.com?subject=[Ich suche einen Freelancer für...]%20Source%20Han%20Sans)
-- Sie sind ein/eine Recruiter:in oder HR-Spezialist:in - schreiben Sie auf diese E-Mail: [Daniels-Recruiting](mailto:job@danielsmakarenko.com?subject=[Ich suche einen Freelancer für...]%20Source%20Han%20Sans)
-
+- Microsoft Dynamics 365 CRM 
+- ERP SelectLine Warenwirtschaft 
+- Contentful
+- ClickDimensions 
+- Inxmail
+- PIWIK PRO 
+- Vercel Analytics 
+- Google Analytics
 
 ## Kontaktieren Sie mich / Contact me 
 
