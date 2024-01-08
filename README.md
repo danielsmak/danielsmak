@@ -1,6 +1,6 @@
 [![Daniels Makarenko's GitHub Banner](daniels-makarenko_git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
 
-#### [Great Britain Flag][English Version](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_en.md) #### Nederlandse versie #### Русская версия
+#### [:gb:English Version](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_en.md) #### Nederlandse versie #### Русская версия
 
 
 
