@@ -1,6 +1,6 @@
 [![Daniels Makarenko's GitHub Banner](daniels-makarenko_git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
 
-#### English Version
+#### English Version [danielsmakarenko.com](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_en.md) 
 #### Nederlandse versie
 #### Русская версия
 
@@ -8,7 +8,7 @@
 
 Hallo 👋, ich bin Daniels Makarenko, ein Frontend-Entwickler und UX/UI Designer aus Düsseldorf. 
 
-Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit einer großen Leidenschaft für Frontend Entwicklung und UX / UI Design. In meiner letzten Position war ich maßgeblich an der Umsetzung mehrerer Projekte in diesen Bereichen beteiligt.
+Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit einer großen Leidenschaft für Frontend Entwicklung und UX / UI Design. Ich bringe zudem Erfahrung und Kenntnisse im Bereich ERP / CRM und Webmarketing mit, was mich zu einem vielseitigen Spezialisten macht, mit dem Hauptfokus auf Frontend-Entwicklung.
 
 ## Frontend Kenntnisse
 
