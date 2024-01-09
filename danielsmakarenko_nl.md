@@ -43,6 +43,6 @@ Mijn collega's waarderen mij als een bekwame en betrouwbare teamspeler met een g
 ## Neem contact op
 
 - Mijn eigen website/portfolio: [danielsmakarenko.com](https://www.daniels-makarenko.com/ "danielsmakarenko.com") 
-- Plan een online afspraak in op Calendly: [Plan een afspraak](https://calendly.com/danielsmakarenko/ "Plan een online afspraak")
+- Plan een online afspraak in op Calendly: [Plan een online afspraak](https://calendly.com/danielsmakarenko/ "Plan een online afspraak")
 - Als je een recruiter of HR-specialist bent, neem dan contact met me op via: [job@danielsmakarenko.com](mailto:job@danielsmakarenko.com)
 - Als je een freelancer nodig hebt of wilt samenwerken aan een project met mijn hulp, neem dan contact met me op via: [work@danielsmakarenko.com](mailto:work@danielsmakarenko.com)

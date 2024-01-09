@@ -43,6 +43,6 @@ My colleagues appreciate me as a competent and reliable team player with a great
 ## Contact me
 
 - My own website/portfolio: [danielsmakarenko.com](https://www.daniels-makarenko.com/ "danielsmakarenko.com") 
-- Schedule an online appointment on Calendly: [Schedule an appointment](https://calendly.com/danielsmakarenko/ "Schedule an appointment")
+- Schedule an online appointment on Calendly: [Schedule an online appointment](https://calendly.com/danielsmakarenko/ "Schedule an appointment")
 - If you are a recruiter or HR specialist, please contact me at: [job@danielsmakarenko.com](mailto:job@danielsmakarenko.com)
 - If you need a freelancer or want to collaborate on a project with my assistance, please contact me at: [work@danielsmakarenko.com](mailto:work@danielsmakarenko.com)
