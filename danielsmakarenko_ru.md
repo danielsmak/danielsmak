@@ -40,7 +40,7 @@
 - Vercel Analytics 
 - Google Analytics  (Базовые знания)
 
-## Contact me
+## Свяжитесь со мной
 
 - Мой сайт: [danielsmakarenko.com](https://www.daniels-makarenko.com/ "danielsmakarenko.com") 
 - Назначьте встречу со мной в Calendly: [Назначить встречу онлайн](https://calendly.com/danielsmakarenko/ "Назначить встречу онлайн")
