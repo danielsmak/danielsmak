@@ -1,6 +1,6 @@
 [![Daniels Makarenko's GitHub Banner](daniels-makarenko_git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
 
-#### [English Version](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_en.md) / [Nederlandse versie](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_en.md) / [Русская версия](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_en.md)
+#### [English Version](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_en.md) / [Nederlandse versie](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_nl.md) / [Русская версия](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_ru.md)
 
 
 
@@ -14,12 +14,12 @@ Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit
 
 - JavaScript / ES6
 - React.js
-- Next.js 12, 13 (Basic / Grundlegend)
+- Next.js 12, 13 (Grundlegende Kenntnisse)
 - CSS3/SCSS/JSS
 - MUI5 / Tailwind
 - GIT
 
-## UX-UI Design Kenntnisse
+## UX / UI Design Kenntnisse
 
 - Figma
 - Maze
@@ -37,7 +37,7 @@ Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit
 - Inxmail
 - PIWIK PRO 
 - Vercel Analytics 
-- Google Analytics
+- Google Analytics  (Grundlegende Kenntnisse)
 
 ## Kontaktieren Sie mich
 
@@ -45,4 +45,3 @@ Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit
 - Buchen Sie einen Termin in Calendly: [Gespräch vereinbaren](https://calendly.com/danielsmakarenko/ "Gespräch vereinbaren")
 - Sie sind ein/eine Recruiter:in oder HR-Spezialist:in - schreiben Sie mir bitte an: [job@danielsmakarenko.com](mailto:job@danielsmakarenko.com)
 - Sie benötigen einen Freelancer / möchten ein Projekt mit meiner Hilfe umsetzen - schreiben Sie mir bitte an: [work@danielsmakarenko.com](mailto:work@danielsmakarenko.com)
-

@@ -1,25 +1,26 @@
 [![Daniels Makarenko's GitHub Banner](daniels-makarenko_git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
 
-#### [English Version](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_en.md) #### [Nederlandse versie](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_en.md) #### [Русская версия](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_en.md)
+#### [Deutsche Version](https://github.com/danielsmak/danielsmak/blob/main/readme.md) / / [Nederlandse versie](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_nl.md) / [Русская версия](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_ru.md)
 
 
 
-## Über mich
+## About me
 
-Hallo 👋, ich bin Daniels Makarenko, ein Frontend-Entwickler und UX/UI Designer aus Düsseldorf. 
 
-Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit einer großen Leidenschaft für Frontend Entwicklung und UX / UI Design. Ich bringe zudem Erfahrung und Kenntnisse im Bereich ERP / CRM und Webmarketing mit, was mich zu einem vielseitigen Spezialisten macht, mit dem Hauptfokus auf Frontend-Entwicklung.
+Hello 👋, I'm Daniels Makarenko, a frontend developer and UX/UI designer from Düsseldorf.
 
-## Frontend Kenntnisse
+My colleagues appreciate me as a competent and reliable team player with a great passion for frontend development and UX/UI design. I also bring experience and knowledge in the field of ERP/CRM and web marketing, making me a versatile specialist with a primary focus on frontend development.
+
+## Frontend skills
 
 - JavaScript / ES6
 - React.js
-- Next.js 12, 13 (Basic / Grundlegend)
+- Next.js 12, 13 (Basic skills)
 - CSS3/SCSS/JSS
 - MUI5 / Tailwind
 - GIT
 
-## UX-UI Design Kenntnisse
+## UX / UI Design skills
 
 - Figma
 - Maze
@@ -37,12 +38,11 @@ Meine Kollegen schätzen mich als kompetenten und verlässlichen Teamplayer, mit
 - Inxmail
 - PIWIK PRO 
 - Vercel Analytics 
-- Google Analytics
+- Google Analytics  (Basic skills)
 
-## Kontaktieren Sie mich
+## Contact me
 
-- Meine eigene Webseite / Portfolio: [danielsmakarenko.com](https://www.daniels-makarenko.com/ "danielsmakarenko.com") 
-- Buchen Sie einen Termin in Calendly: [Gespräch vereinbaren](https://calendly.com/danielsmakarenko/ "Gespräch vereinbaren")
-- Sie sind ein/eine Recruiter:in oder HR-Spezialist:in - schreiben Sie mir bitte an: [job@danielsmakarenko.com](mailto:job@danielsmakarenko.com)
-- Sie benötigen einen Freelancer / möchten ein Projekt mit meiner Hilfe umsetzen - schreiben Sie mir bitte an: [work@danielsmakarenko.com](mailto:work@danielsmakarenko.com)
-
+- My own website/portfolio: [danielsmakarenko.com](https://www.daniels-makarenko.com/ "danielsmakarenko.com") 
+- Schedule an appointment on Calendly: [Gespräch vereinbaren](https://calendly.com/danielsmakarenko/ "Schedule an appointment")
+- If you are a recruiter or HR specialist, please contact me at: [job@danielsmakarenko.com](mailto:job@danielsmakarenko.com)
+- If you need a freelancer or want to collaborate on a project with my assistance, please contact me at: [work@danielsmakarenko.com](mailto:work@danielsmakarenko.com)
