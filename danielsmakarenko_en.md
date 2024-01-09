@@ -1,6 +1,6 @@
 [![Daniels Makarenko's GitHub Banner](daniels-makarenko_git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
 
-#### [Deutsche Version](https://github.com/danielsmak/danielsmak/blob/main/readme.md) / / [Nederlandse versie](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_nl.md) / [Русская версия](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_ru.md)
+#### [Deutsche Version](https://github.com/danielsmak/danielsmak/blob/main/readme.md) / [Nederlandse versie](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_nl.md) / [Русская версия](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_ru.md)
 
 
 
