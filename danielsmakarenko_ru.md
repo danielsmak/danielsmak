@@ -1,6 +1,6 @@
 [![Daniels Makarenko's GitHub Banner](daniels-makarenko_git.png)]([https://braydoncoyer.dev](https://www.daniels-makarenko.com/))
 
-#### [Deutsche Version](https://github.com/danielsmak/danielsmak/blob/main/readme.md) / / [Nederlandse versie](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_nl.md) / [Русская версия](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_ru.md)
+#### [English Version](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_en.md) #### [Deutsche Version](https://github.com/danielsmak/danielsmak/blob/main/readme.md) / / [Nederlandse versie](https://github.com/danielsmak/danielsmak/blob/main/danielsmakarenko_nl.md)
 
 
 
@@ -45,4 +45,4 @@
 - Мой сайт: [danielsmakarenko.com](https://www.daniels-makarenko.com/ "danielsmakarenko.com") 
 - Назначьте встречу со мной в Calendly: [Gespräch vereinbaren](https://calendly.com/danielsmakarenko/ "Назначить встречу")
 - Если вы рекрутер или работаете в HR, то вы можете связаться со мной через этот e-mail: [job@danielsmakarenko.com](mailto:job@danielsmakarenko.com)
-- Если вы ищете фрилансера или хотите, чтобы вам нужна моя помощь с вашим проектом, то пишите пожалуйста на этот email: [work@danielsmakarenko.com](mailto:work@danielsmakarenko.com)
+- Если вы ищете фрилансера или нуждаетесь в моей помощи с каким-либо проектом, то пишите пожалуйста на этот email: [work@danielsmakarenko.com](mailto:work@danielsmakarenko.com)
