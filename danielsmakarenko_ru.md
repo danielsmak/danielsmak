@@ -43,6 +43,6 @@
 ## Contact me
 
 - Мой сайт: [danielsmakarenko.com](https://www.daniels-makarenko.com/ "danielsmakarenko.com") 
-- Назначьте встречу со мной в Calendly: [Gespräch vereinbaren](https://calendly.com/danielsmakarenko/ "Назначить встречу")
+- Назначьте встречу со мной в Calendly: [Назначить встречу онлайн](https://calendly.com/danielsmakarenko/ "Назначить встречу онлайн")
 - Если вы рекрутер или работаете в HR, то вы можете связаться со мной через этот e-mail: [job@danielsmakarenko.com](mailto:job@danielsmakarenko.com)
 - Если вы ищете фрилансера или нуждаетесь в моей помощи с каким-либо проектом, то пишите пожалуйста на этот email: [work@danielsmakarenko.com](mailto:work@danielsmakarenko.com)
